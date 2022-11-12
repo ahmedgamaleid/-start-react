@@ -1,0 +1,15 @@
+.allabo{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: column;
+background-color:#1abc9c ;
+height: 100vh;
+text-align: center;
+color: white;
+}
+.h1abo{
+font-size: 48px;
+line-height: 40px;
+
+}

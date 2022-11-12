@@ -1,0 +1,42 @@
+.all{
+
+background-color: #1abc9c;
+height: 100vh;
+align-items: center;
+justify-content: center;
+text-align: center;
+flex-direction: column;
+color:white;
+display: flex;
+
+}
+ .color{
+background-color: #1abc9c;
+ }
+.lineone{
+    width: 7rem;
+    height: 25rem;
+  
+}
+.starh1{
+    font-size: 64px;
+    line-height: 56px;
+
+
+}
+.starp{
+    font-size: 24px;
+    line-height: 36px;
+
+
+}
+.icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .line1{
+    width: 7rem;
+    height:.25rem ;
+    background-color:#ffffff;
+  }

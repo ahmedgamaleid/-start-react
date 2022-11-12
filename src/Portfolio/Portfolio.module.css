@@ -1,0 +1,99 @@
+.portcontect{
+
+    position: relative;
+  }
+  .layer{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    background-color: #1abc9c;
+    opacity: 0%;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    border-radius: 15px;
+    transition: all .5s;
+  }
+  .layer i{
+    font-size: 72px;
+  }
+  .layer:hover{
+    opacity: 80%;
+  }
+
+
+
+
+  /* .title{
+    margin-top: 20px;
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+.title h2{
+    position: relative;
+    color: #2c3e50;
+    font-weight: bold;
+    padding-top: 80px;
+}
+.title h2::before,
+.title h2::after{
+    content: "";
+    position: absolute;
+    width: calc(20px + 9vw);
+    height: 5px;
+    background-color: black;
+   
+}
+.title h2::before{
+    bottom: -28px;
+    left: 70%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+}
+.title h2::after{
+    bottom: -28px;
+    right: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+}
+.title i{
+    color: #2c3e50;
+}
+section img{
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+.box{
+    position: relative;
+  
+}
+.box::before{
+    content: "";
+    position: absolute;
+    background-color: #1abc9cab;
+    transition: .4s;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+    cursor: pointer;
+}
+.box:hover::before{
+    width: 100%;
+    height: 100%;
+ 
+}
+ */
